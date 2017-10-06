@@ -1,0 +1,4 @@
+0. 3x3 through 9x9, inclusive.
+1. int[][]
+2. greet();
+3. init(); draw(); move(); won();
